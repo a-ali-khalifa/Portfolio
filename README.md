@@ -9,11 +9,3 @@ Hosted on: https://ahmedkhalifadev.com/
 
 
 ![image](https://github.com/AK1o9/Portfolio/assets/96708800/082c20ce-4388-402a-a74e-f89223e45cd6)
-
-## Sections
-- Home
-- About
-- Skills
-- Projects
-- Services
-- Contact
